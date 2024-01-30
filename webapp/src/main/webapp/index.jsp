@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>My Name is Deepak this is my first project in CICD </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -33,5 +33,5 @@
 
    <h1> Thankyou, Happy Learning </h1>
 
-  
+ 
 </form>
