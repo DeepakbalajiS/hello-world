@@ -1,8 +1,9 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>My Name is Deepak this is my first project in CICD </h1>
+    <h1>My Name is Lokesh this is my first project in CICD </h1>
+    <h2>Hellow </h2>
     <p>Please fill in this form to create an account.</p>
-    <hr>
+    <br>
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
